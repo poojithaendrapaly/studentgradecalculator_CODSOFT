@@ -9,3 +9,5 @@ average percentage.
 *Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
 
 program link is here👇👇
+https://github.com/poojithaendrapaly/studentgradecalculator_CODSOFT/assets/156337751/c14ea8ab-5ea7-4ee7-939a-64333874c752
+this is how the program works on studentgrade calculator
